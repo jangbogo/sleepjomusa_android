@@ -25,7 +25,12 @@
         <activity android:name=".TipActivity" />
         <activity android:name=".BodyActivity" />
         <activity android:name=".MusicActivity" />
-        <activity android:name=".VideoActivity"></activity>
+        <activity android:name=".VideoActivity" />
+
+        <service
+            android:name=".LightTimer"
+            android:enabled="true"
+            android:exported="true"></service>
     </application>
 
 </manifest>
