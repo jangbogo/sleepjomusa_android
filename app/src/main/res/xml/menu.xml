@@ -1,0 +1,19 @@
+<?xml version="1.0" encoding="utf-8"?>
+<menu xmlns:android="http://schemas.android.com/apk/res/android"
+    xmlns:app="http://schemas.android.com/apk/res-auto">
+    <item
+        android:id="@+id/actionLight"
+        app:showAsAction="always"
+        android:enabled="true"
+        android:icon="@drawable/icon_light" />
+    <item
+        android:id="@+id/actionDashboard"
+        app:showAsAction="always"
+        android:enabled="true"
+        android:icon="@drawable/icon_dashboard" />
+    <item
+        android:id="@+id/actionTip"
+        app:showAsAction="always"
+        android:enabled="true"
+        android:icon="@drawable/icon_bed" />
+</menu>

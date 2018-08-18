@@ -1,3 +1,4 @@
 <resources>
     <string name="app_name">수면조무사</string>
+    <string name="title_activity_tip">TipActivity</string>
 </resources>
